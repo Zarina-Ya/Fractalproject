@@ -330,7 +330,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: c18bd627079c60c4e9167fb990a06bd1, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  _mesh: {fileID: 10208, guid: 0000000000000000e000000000000000, type: 0}
+  _mesh: {fileID: 10207, guid: 0000000000000000e000000000000000, type: 0}
   _material: {fileID: 2100000, guid: 8378bbac025d6824c9623c67b2b2fe2f, type: 2}
   _depth: 3
   _speedRotation: 6
